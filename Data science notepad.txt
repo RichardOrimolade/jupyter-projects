@@ -1,0 +1,28 @@
+Machine lerning
+Supervise learning - (tructured Data- Train and Test)
+   Regression
+     Algorithms that we use
+      Linear Regression
+      Multiple Regression
+      Polyomial Regression
+
+Classification
+    Linear Classifier
+    Support Vector Machin
+    Decision Tree
+    K-Nearest Neighbor
+    Random Forest
+    Logistic Regression
+         (They all follow same pattern for you to use them)
+
+
+Unsupervise learning (use Google search to read more about his also, what type o problem they use this to solved?)
+    Clustering
+    KMeans
+    KNN (k Nearest Neighbour)
+
+
+Reinforcement Learning 
+   Q-Learning (Robotics and Autonomous)
+
+(marutitech.com/problems-solved-machne-learning)
