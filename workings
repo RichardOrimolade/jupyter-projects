@@ -1,0 +1,7 @@
+numpy as np
+pandas as pd
+df_dict2 {'name': ['James', 'Yemen', 'Caro', 'np.nan'],
+        'Profession': ['Researcher', 'Artist', 'DOCTOR', 'Writer'],
+        'Experience': [12, np.nan, 10, 8],
+        'Height': [np.nan, 175, 180, 150]}
+new_df pd.DataFrame(df_dict2)
